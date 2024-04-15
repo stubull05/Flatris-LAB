@@ -1,15 +1,24 @@
-[![Flatris](flatris.png)](https://flatris.space/)
+# Introduction 
+TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
-[![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
+# Create a Pull Request
+a.Create a PR 
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Installation process
+2.	Software dependencies
+3.	Latest releases
+4.	API references
 
-> **Work in progress:** Flatris has been recently redesigned from the ground up and turned into a multiplayer game with both UI and server components. This has been an interesting journey and I plan to document the architecture in depth. **[Stay tuned](https://twitter.com/skidding)**.
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
 
-[![Flatris](flatris.gif)](https://flatris.space/)
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 
 
-> **Contribution disclaimer:** Flatris is a web game with an opinionated feature set and architectural design. It doesn't have a roadmap. While I'm generally open to ideas, I would advise against submitting unannounced PRs with new or modified functionality. That said, **bug reports and fixes are most appreciated.**
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
 
-Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
-
-Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
-
-This is my test edit for Flatris ReadMe
+Making a change to the readme file
